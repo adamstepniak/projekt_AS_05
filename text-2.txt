@@ -1,0 +1,9 @@
+plik text-2
+opis 2
+koniec wpisu 1
+opis 2
+koniec wpisu 2
+nowy wpis
+koniec wpisu 3
+nowy wpis
+koniec wpisu 4

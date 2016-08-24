@@ -1,0 +1,9 @@
+plik text-1
+opis 1
+opis 1
+opis 1
+koniec wpisu 1
+opis 1
+opis 1
+koniec wpisu 2
+zmiana AS w MASTER

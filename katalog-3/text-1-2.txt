@@ -1,0 +1,5 @@
+plik text-1-2.txt
+opis 2
+opis 2
+opis 2
+koniec wpisu 1

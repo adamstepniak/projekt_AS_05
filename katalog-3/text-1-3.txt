@@ -1,0 +1,4 @@
+plik text-1-3.txt
+opis 3
+opis 3
+koniec wpisu 1
